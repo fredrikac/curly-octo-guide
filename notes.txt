@@ -400,3 +400,27 @@ Rule of thumb: whenever we create a function to update a value, we pass in a poi
 
 We don't want to make a copy of the object every time, it's a lot of work. It is less work to pass in a pointer, bc a pointer is just a pointer, while data objects can be very large
 
+18. User input
+Ask question in terminal to user and give them options
+1. create a reader using the bufio package
+2. Read the user input with ReadString method and specify how long you want to read (until user press enter)
+
+User input is automatically strings
+Read userinput several times
+Helperfunction to do this 
+
+19. Switch statements
+Just like any other language!
+switch, case, default
+
+20. Parsing floats
+21. Save data to file
+Must be saved in byte slices format
+
+22. Interfaces
+Type: square and circle
+Two methods returning float64s
+Print out the information of the format
+Interface groups types together with their common methods
+Makes it possible to create general functions 
+

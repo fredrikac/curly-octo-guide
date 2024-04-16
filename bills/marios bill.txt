@@ -1,0 +1,5 @@
+Bill breakdown: 
+soup:                     ...$4.55
+garlic bread:             ...$2.25
+tip:                      ...$7.00
+total:                    ...$13.80
